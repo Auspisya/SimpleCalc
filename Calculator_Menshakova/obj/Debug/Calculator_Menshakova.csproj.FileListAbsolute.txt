@@ -1,0 +1,8 @@
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\bin\Debug\Calculator_Menshakova.exe.config
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\bin\Debug\Calculator_Menshakova.exe
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\bin\Debug\Calculator_Menshakova.pdb
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\obj\Debug\Calculator_Menshakova.csproj.AssemblyReference.cache
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\obj\Debug\Calculator_Menshakova.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\obj\Debug\Calculator_Menshakova.csproj.CoreCompileInputs.cache
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\obj\Debug\Calculator_Menshakova.exe
+C:\Users\mensh\source\repos\Calculator_Menshakova\Calculator_Menshakova\obj\Debug\Calculator_Menshakova.pdb
