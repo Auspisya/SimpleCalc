@@ -15,12 +15,14 @@ namespace Calculator_Menshakova
         {
             char again = 'y';
             while(again == 'y') {
-                var calc = new Calculator();
-                double result = calc.Calculate();
-                Console.WriteLine(result);
-                Console.ReadKey();
-                Console.WriteLine("Вы хотите продолжить работу с калькулятором? (y/n)");
-                again = Convert.ToChar(Console.ReadLine());
+                try {
+                    var calc = new Calculator();
+                    double result = calc.Calculate();
+                    Console.WriteLine(result);
+                    Console.ReadKey();
+                    Console.WriteLine("Вы хотите продолжить работу с калькулятором? (y/n)");
+                    again = Convert.ToChar(Console.ReadLine());
+                } catch { Console.WriteLine("Вы ввели неправильный тип данных!");}      
             }
         }
     }
@@ -64,6 +66,7 @@ namespace Calculator_Menshakova
     {
         public int Calculate()
         {
+
             Console.WriteLine("Введите первое число:");
             int a = (int)Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите оператор:");
