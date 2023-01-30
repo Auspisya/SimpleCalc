@@ -13,10 +13,15 @@ namespace Calculator_Menshakova
     {
         static void Main(string[] args)
         {
-            var calc = new Calculator();
-            double result = calc.Calculate();
-            Console.WriteLine(result);
-            Console.ReadKey();
+            char again = 'y';
+            while(again == 'y') {
+                var calc = new Calculator();
+                double result = calc.Calculate();
+                Console.WriteLine(result);
+                Console.ReadKey();
+                Console.WriteLine("Вы хотите продолжить работу с калькулятором? (y/n)");
+                again = Convert.ToChar(Console.ReadLine());
+            }
         }
     }
 
