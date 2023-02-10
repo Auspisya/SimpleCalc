@@ -1,0 +1,8 @@
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\bin\Debug\TestCalcOOP.exe.config
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\bin\Debug\TestCalcOOP.exe
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\bin\Debug\TestCalcOOP.pdb
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\obj\Debug\TestCalcOOP.csproj.AssemblyReference.cache
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\obj\Debug\TestCalcOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\obj\Debug\TestCalcOOP.csproj.CoreCompileInputs.cache
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\obj\Debug\TestCalcOOP.exe
+C:\Users\mensh\source\repos\TestCalcOOP\TestCalcOOP\obj\Debug\TestCalcOOP.pdb
